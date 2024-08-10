@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="200px" src="https://webcoder.co.in/wp-content/uploads/2021/04/website.gif" />
+<img align="center" alt="Coding" width="100%" height="250px" src="https://webcoder.co.in/wp-content/uploads/2021/04/website.gif" />
 
 
 <h1 align="center">Hi 👋, I'm Ujjal Ray</h1>
