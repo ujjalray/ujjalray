@@ -1,5 +1,5 @@
 
- <img align="right" alt="Coding" width="400"  src="[https://komarev.com/ghpvc/?username=ujjalray&label=Profile%20views&color=0e75b6&style=flat](https://outlane.co/wp-content/uploads/2017/10/avatar-2.png)" alt="ujjalray" /> </p>
+ <img align="right" alt="Coding" width="400"  src="[[https://komarev.com/ghpvc/?username=ujjalray&label=Profile%20views&color=0e75b6&style=flat](https://outlane.co/wp-content/uploads/2017/10/avatar-2.png)](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" alt="ujjalray" /> </p>
 
 
 <h1 align="center">Hi 👋, I'm Ujjal Ray</h1>
